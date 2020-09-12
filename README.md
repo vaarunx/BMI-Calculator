@@ -3,4 +3,5 @@ A web-application that will mail you your BMI and it is an effective way to find
 
 
 If you wish to use this app, please go to send_email.py and use your own email and password in that place!
+Also I've commented out the postgreSQL database line. Please add your password and the name of your database in app.py.
 
