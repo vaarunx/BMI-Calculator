@@ -2,8 +2,10 @@ from email.mime.text import MIMEText
 import smtplib
 
 def send_email(email , height , weight , BMI , average_BMI ,count):
-    from_email = "varun10test@gmail.com"
-    from_password = "123thisisit"
+    #Enter your e-mail address
+    from_email = ""
+    #Enter your password(e-mail) 
+    from_password = ""
     to_email = email
 
     subject = "BMI Value"
