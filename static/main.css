@@ -1,0 +1,82 @@
+html , body {
+    height: 100%;
+    width: 100;
+    margin: 0 auto;
+    padding: 20 , 20;
+
+}
+main{
+    font-size: 30px;
+    color: #ff9999;
+}
+
+.container {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    background-color: #1d9092;
+    padding: 20 , 20; 
+    color: #ffffff;
+    overflow: hidden;
+    text-align: center;
+}
+
+.container h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #DDCCEE;
+    margin-top: 100px;
+}
+
+.container form{
+    margin: 40px ;
+}
+
+#Email{
+    width: 400px;
+    height: 40px;
+    margin: 30px;
+    font-size: 20px;
+    padding: 10px;
+    transition : all 0.2s ease-in-out;
+
+}
+/*#Height{
+    display: inline-block;
+}
+
+#Weight{
+    display: inline-block;
+    
+
+}*/
+
+.container input{
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    font-size: 15px;
+    transition : all 0.2s ease-in-out;
+    
+}
+
+/*.Wrapper{
+    display: inline-block;
+    top: 50%;
+    left:50%;
+} */
+
+.container button{
+    width: 100px;
+    height: 30px;
+    background-color: steelblue;
+    margin: 10px;
+}
+
+.container p {
+    margin: 150px;
+}
+
+h3 {
+    color:#DDCCEE;
+}
